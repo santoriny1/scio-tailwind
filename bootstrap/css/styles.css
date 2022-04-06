@@ -1,0 +1,26 @@
+.carousel-inner > .carousel-item > img {
+    margin: 0;     
+    max-width: 100%; 
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#div-footer {
+    text-align: center;
+}
+
+.card{
+    height: 100%; 
+  }
+
+.back-color {
+    background-color: #FA8072;
+    text-emphasis-color: white;
+}
+
+.homeBtn {
+    border: none; 
+    outline:none;
+}
